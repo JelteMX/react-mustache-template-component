@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/react-mustache-template-component/main.6fe06d2eefc9d0d88bd8.bundle.js",
+    "main.js.map": "/react-mustache-template-component/main.6fe06d2eefc9d0d88bd8.bundle.js.map",
+    "runtime~main.js": "/react-mustache-template-component/runtime~main.6fe06d2eefc9d0d88bd8.bundle.js",
+    "runtime~main.js.map": "/react-mustache-template-component/runtime~main.6fe06d2eefc9d0d88bd8.bundle.js.map",
+    "vendors~main.js": "/react-mustache-template-component/vendors~main.6fe06d2eefc9d0d88bd8.bundle.js",
+    "vendors~main.js.map": "/react-mustache-template-component/vendors~main.6fe06d2eefc9d0d88bd8.bundle.js.map",
+    "../build/components/TemplateComponent.d.ts": "/react-mustache-template-component/../build/components/TemplateComponent.d.ts",
+    "../build/components/TemplateComponent.stories.d.ts": "/react-mustache-template-component/../build/components/TemplateComponent.stories.d.ts",
+    "iframe.html": "/react-mustache-template-component/iframe.html",
+    "precache-manifest.7f31d63a7280946b37267166fc461828.js": "/react-mustache-template-component/precache-manifest.7f31d63a7280946b37267166fc461828.js",
+    "service-worker.js": "/react-mustache-template-component/service-worker.js",
+    "vendors~main.6fe06d2eefc9d0d88bd8.bundle.js.LICENSE.txt": "/react-mustache-template-component/vendors~main.6fe06d2eefc9d0d88bd8.bundle.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "runtime~main.6fe06d2eefc9d0d88bd8.bundle.js",
+    "vendors~main.6fe06d2eefc9d0d88bd8.bundle.js",
+    "main.6fe06d2eefc9d0d88bd8.bundle.js"
+  ]
+}
